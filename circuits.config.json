@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZkCircuit",
+    "protocol": "groth16",
+    "circuit": "ZkCircuit/circuit.circom",
+    "input": "ZkCircuit/input.json",
+    "wasm": "ZkCircuit/out/circuit.wasm",
+    "zkey": "ZkCircuit/out/ZkCircuit.zkey",
+    "vkey": "ZkCircuit/out/ZkCircuit.vkey",
+    "r1cs": "ZkCircuit/out/ZkCircuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
